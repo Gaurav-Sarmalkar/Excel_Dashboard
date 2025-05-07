@@ -7,3 +7,8 @@ The primary objective of this project is to analyze customer churn behavior for 
 3. Analyze financial indicators (e.g., balance, credit score, estimated salary) in relation to churn.
 4. Understand behavioral factors, such as product usage, card ownership, and activity level.
 5. Enable dynamic filtering of the dashboard using slicers for deep dives into subsets of customers.
+## KPI's
+Total customers associated with the bank.
+Total churned customers out of all the customers.
+Total retained customers out of all the customers.
+Churn rate percentage across for both male and female across bank.
